@@ -15,6 +15,7 @@
             a{
                 text-align: left;
                 padding: 5px;
+				
             }
 		</style>
 	</head>
@@ -35,8 +36,8 @@
 		<p>Instagram is one of the most popular apps and largest social media platforms. It has approximately 1.4 billion monthly users. It was launched in 2010 and was acquired by Facebook two years later.</p>
 		<br>
 		<hr>
-		<h3>#3) Facebook</h3>
-		<a href="Facebook.html">Facebook</a>
+		<h3>#2) Links & Images</h3>
+		<a href="Facebook.html">Check it</a>
 		<br>
 		<br>
 		<hr>
@@ -44,8 +45,8 @@
 		<p>With the monthly active users at 2.9 billion and 416 million downloads last year, Facebook is one of the most famous apps. It has allowed people to connect with long-lost friends and people they can’t meet regularly.</p>
 		<br>
 		<hr>
-		<h3>#4) WhatsApp</h3>
-		<a href="WhatsApp.html">WhatsApp</a>
+		<h3>#3) HTML Table</h3>
+		<a href="WhatsApp.html">Check it</a>
 		<br>
 		<br>
 		<hr>
