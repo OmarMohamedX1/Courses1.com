@@ -37,7 +37,7 @@
 		<br>
 		<hr>
 		<h3>#2) Links & Images</h3>
-		<a href="Facebook.html">Check it</a>
+		<a href="">Check it - unavailable</a>
 		<br>
 		<br>
 		<hr>
@@ -46,7 +46,7 @@
 		<br>
 		<hr>
 		<h3>#3) HTML Table</h3>
-		<a href="WhatsApp.html">Check it</a>
+		<a href="">Check it - unavailable</a>
 		<br>
 		<br>
 		<hr>
